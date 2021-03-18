@@ -1,0 +1,237 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+|            Palavras Restantes           |
+|bruno           (00)|otavio          (00)|
+|--------------------|--------------------|
+|algoritmo           |instancia           |
+|programa            |heuristica          |
+|computacao          |metodo              |
+|linguagem           |laboratorio         |
+|desenvolve          |processador         |
+|matriz              |grafo               |
+
+    00 01 02 03 04 05 06 07 08 09
+00| -  -  -  -  -  -  -  -  -  - |
+01| -  -  -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  -  -  - |
+03| -  -  -  -  -  -  -  -  -  - |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| -  -  -  -  -  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (00)|
+|--------------------|--------------------|
+|programa            |instancia           |
+|computacao          |heuristica          |
+|linguagem           |metodo              |
+|desenvolve          |laboratorio         |
+|matriz              |processador         |
+|                    |grafo               |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| -  -  -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  -  -  - |
+03| -  -  -  -  -  -  -  -  -  - |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| -  -  -  -  -  -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (03)|otavio          (00)|
+|--------------------|--------------------|
+|computacao          |instancia           |
+|linguagem           |heuristica          |
+|desenvolve          |metodo              |
+|matriz              |laboratorio         |
+|                    |processador         |
+|                    |grafo               |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| -  -  -  -  -  -  -  -  -  - |
+03| -  -  -  -  -  -  -  -  -  - |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| -  -  -  -  -  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (05)|otavio          (00)|
+|--------------------|--------------------|
+|computacao          |instancia           |
+|desenvolve          |heuristica          |
+|matriz              |metodo              |
+|                    |laboratorio         |
+|                    |processador         |
+|                    |grafo               |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| -  -  -  -  -  -  -  -  -  - |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| -  -  -  -  -  -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (00)|
+|--------------------|--------------------|
+|desenvolve          |instancia           |
+|matriz              |heuristica          |
+|                    |metodo              |
+|                    |laboratorio         |
+|                    |processador         |
+|                    |grafo               |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| -  -  -  -  -  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (01)|
+|--------------------|--------------------|
+|desenvolve          |instancia           |
+|matriz              |heuristica          |
+|                    |metodo              |
+|                    |laboratorio         |
+|                    |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| -  -  -  -  -  -  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (03)|
+|--------------------|--------------------|
+|desenvolve          |instancia           |
+|matriz              |heuristica          |
+|                    |laboratorio         |
+|                    |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  -  -  - |
+08| M  e  t  o  d  o  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (04)|
+|--------------------|--------------------|
+|desenvolve          |instancia           |
+|matriz              |laboratorio         |
+|                    |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  -  -  - |
+07| H  e  u  r  i  s  t  i  c  a |
+08| M  e  t  o  d  o  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (06)|
+|--------------------|--------------------|
+|desenvolve          |laboratorio         |
+|matriz              |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  -  -  - |
+06| I  n  s  t  a  n  c  i  a  - |
+07| H  e  u  r  i  s  t  i  c  a |
+08| M  e  t  o  d  o  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (08)|otavio          (06)|
+|--------------------|--------------------|
+|desenvolve          |laboratorio         |
+|                    |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| -  -  -  -  -  -  -  -  -  - |
+05| M  a  t  r  i  z  -  -  -  - |
+06| I  n  s  t  a  n  c  i  a  - |
+07| H  e  u  r  i  s  t  i  c  a |
+08| M  e  t  o  d  o  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (09)|otavio          (06)|
+|--------------------|--------------------|
+|                    |laboratorio         |
+|                    |processador         |
+
+    00 01 02 03 04 05 06 07 08 09
+00| A  l  g  o  r  i  t  m  o  - |
+01| P  r  o  g  r  a  m  a  -  - |
+02| L  i  n  g  u  a  g  e  m  - |
+03| C  o  m  p  u  t  a  c  a  o |
+04| D  e  s  e  n  v  o  l  v  e |
+05| M  a  t  r  i  z  -  -  -  - |
+06| I  n  s  t  a  n  c  i  a  - |
+07| H  e  u  r  i  s  t  i  c  a |
+08| M  e  t  o  d  o  -  -  -  - |
+09| G  r  a  f  o  -  -  -  -  - |
+
+bruno Ganhou!!!

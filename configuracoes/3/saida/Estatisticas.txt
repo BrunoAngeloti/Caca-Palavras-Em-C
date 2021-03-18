@@ -1,0 +1,26 @@
+--------------
+--- PONTOS ---
+--------------
+
+Bruno
+Feitos: 2
+Recebidos: 1
+Total: 3
+
+Valeria
+Feitos: 4
+Recebidos: 0
+Total: 4
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|2|base            |008|
+|2|lapis           |020|
+|2|torta           |005|
+|1|alface          |018|
+|0|oleo            |000|
+|0|tela            |000|

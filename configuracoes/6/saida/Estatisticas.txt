@@ -1,0 +1,30 @@
+--------------
+--- PONTOS ---
+--------------
+
+Otavio
+Feitos: 0
+Recebidos: 3
+Total: 3
+
+Bruno
+Feitos: 0
+Recebidos: 0
+Total: 0
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|1|lampada         |026|
+|1|parede          |012|
+|1|vidro           |038|
+|0|bolsa           |000|
+|0|caixa           |000|
+|0|caneta          |000|
+|0|computador      |000|
+|0|corda           |000|
+|0|fone            |000|
+|0|papel           |000|

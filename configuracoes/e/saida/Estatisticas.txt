@@ -1,0 +1,32 @@
+--------------
+--- PONTOS ---
+--------------
+
+bruno
+Feitos: 6
+Recebidos: 3
+Total: 9
+
+otavio
+Feitos: 4
+Recebidos: 2
+Total: 6
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|2|algoritmo       |001|
+|2|instancia       |008|
+|2|linguagem       |003|
+|2|matriz          |009|
+|2|metodo          |006|
+|1|computacao      |004|
+|1|desenvolve      |010|
+|1|grafo           |005|
+|1|heuristica      |007|
+|1|programa        |002|
+|0|laboratorio     |000|
+|0|processador     |000|

@@ -1,0 +1,98 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+|            Palavras Restantes           |
+|bruno           (00)|marcio          (00)|
+|--------------------|--------------------|
+|faca                |toca                |
+|alfa                |dado                |
+|alga                |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  -  -  - |
+01| -  -  -  -  -  - |
+02| -  -  -  -  -  - |
+03| -  -  -  -  -  - |
+04| -  -  -  -  -  - |
+05| -  -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (00)|marcio          (00)|
+|--------------------|--------------------|
+|faca                |toca                |
+|alfa                |dado                |
+|alga                |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  -  -  - |
+01| -  -  -  -  -  - |
+02| -  -  A  -  -  - |
+03| -  -  -  -  -  - |
+04| -  -  -  -  -  - |
+05| -  -  -  -  -  - |
+
+marcio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (01)|marcio          (00)|
+|--------------------|--------------------|
+|faca                |toca                |
+|alga                |dado                |
+|                    |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  -  -  - |
+01| -  -  -  -  -  - |
+02| -  -  A  -  -  - |
+03| -  -  -  f  -  - |
+04| -  -  -  -  l  - |
+05| -  -  -  -  -  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (03)|marcio          (00)|
+|--------------------|--------------------|
+|faca                |toca                |
+|                    |dado                |
+|                    |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  -  -  - |
+01| -  -  -  -  -  - |
+02| -  -  A  -  -  A |
+03| -  -  -  f  -  l |
+04| -  -  -  -  l  g |
+05| -  -  -  -  -  A |
+
+marcio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (03)|marcio          (00)|
+|--------------------|--------------------|
+|faca                |toca                |
+|                    |dado                |
+|                    |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  -  -  - |
+01| -  -  -  -  -  - |
+02| -  -  A  -  -  A |
+03| -  -  -  f  -  l |
+04| -  -  -  -  L  g |
+05| -  -  -  -  -  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (05)|marcio          (00)|
+|--------------------|--------------------|
+|                    |toca                |
+|                    |dado                |
+|                    |rato                |
+
+    00 01 02 03 04 05
+00| -  -  -  a  -  - |
+01| -  -  -  c  -  - |
+02| -  -  A  a  -  A |
+03| -  -  -  F  -  l |
+04| -  -  -  -  L  g |
+05| -  -  -  -  -  A |
+
+bruno Ganhou!!!

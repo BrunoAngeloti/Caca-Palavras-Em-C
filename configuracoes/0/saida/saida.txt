@@ -1,0 +1,536 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+|            Palavras Restantes           |
+|bruno           (00)|otavio          (00)|
+|--------------------|--------------------|
+|azar                |zebra               |
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| -  -  -  -  - |
+01| -  -  -  -  - |
+02| -  -  -  -  - |
+03| -  -  -  -  - |
+04| -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (00)|
+|--------------------|--------------------|
+|casa                |zebra               |
+|panda               |mapa                |
+|ave                 |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| z  -  -  -  - |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (00)|
+|--------------------|--------------------|
+|casa                |zebra               |
+|panda               |mapa                |
+|ave                 |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| z  -  -  -  - |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (00)|
+|--------------------|--------------------|
+|casa                |zebra               |
+|panda               |mapa                |
+|ave                 |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| z  -  -  -  - |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (00)|
+|--------------------|--------------------|
+|casa                |zebra               |
+|panda               |mapa                |
+|ave                 |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| z  -  -  -  - |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  e  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  e  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  b  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas já jogadas.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas fora do tabuleiro.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas fora do tabuleiro.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (02)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|ave                 |reus                |
+|area                |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  -  -  - |
+03| r  -  -  -  - |
+04| -  -  -  -  - |
+
+Coordenadas fora do tabuleiro.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  e  -  - |
+03| r  -  -  v  - |
+04| -  -  -  -  A |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  e  -  - |
+03| r  -  -  v  - |
+04| -  -  -  -  A |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  e  -  - |
+03| r  -  -  v  - |
+04| -  -  -  -  A |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| r  -  -  v  - |
+04| -  -  -  -  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| r  -  -  v  - |
+04| -  -  -  -  A |
+
+Coordenadas já jogadas.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| r  -  -  V  - |
+04| -  -  -  -  A |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (02)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+|                    |rua                 |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| r  -  -  V  - |
+04| -  -  -  -  A |
+
+Coordenadas já jogadas.otavio por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (04)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| R  u  a  V  - |
+04| -  -  -  -  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (04)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |peru                |
+|area                |reus                |
+
+    00 01 02 03 04
+00| A  -  -  -  - |
+01| Z  E  B  r  a |
+02| a  -  E  -  - |
+03| R  u  a  V  - |
+04| -  -  -  -  A |
+
+Coordenadas já jogadas.bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (04)|otavio          (05)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|panda               |reus                |
+|area                |                    |
+
+    00 01 02 03 04
+00| A  P  -  -  - |
+01| Z  E  B  r  a |
+02| a  r  E  -  - |
+03| R  u  a  V  - |
+04| -  -  -  -  A |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (05)|otavio          (05)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|area                |reus                |
+
+    00 01 02 03 04
+00| A  P  -  -  P |
+01| Z  E  B  r  a |
+02| a  r  E  -  n |
+03| R  u  a  V  d |
+04| -  -  -  -  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (05)|otavio          (05)|
+|--------------------|--------------------|
+|casa                |mapa                |
+|area                |reus                |
+
+    00 01 02 03 04
+00| A  P  -  -  P |
+01| Z  E  B  r  a |
+02| a  r  E  -  n |
+03| R  u  a  V  d |
+04| S  -  -  -  A |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (05)|
+|--------------------|--------------------|
+|area                |mapa                |
+|                    |reus                |
+
+    00 01 02 03 04
+00| A  P  -  -  P |
+01| Z  E  B  r  a |
+02| a  r  E  -  n |
+03| R  u  a  V  d |
+04| S  C  a  s  A |
+
+bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (06)|otavio          (06)|
+|--------------------|--------------------|
+|area                |mapa                |
+
+    00 01 02 03 04
+00| A  P  -  -  P |
+01| Z  E  B  R  a |
+02| a  r  E  -  n |
+03| R  u  a  V  d |
+04| S  C  a  s  A |
+
+otavio por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|bruno           (07)|otavio          (06)|
+|--------------------|--------------------|
+|                    |mapa                |
+
+    00 01 02 03 04
+00| A  P  -  -  P |
+01| Z  E  B  R  a |
+02| A  r  E  a  n |
+03| R  u  a  V  d |
+04| S  C  a  s  A |
+
+bruno Ganhou!!!

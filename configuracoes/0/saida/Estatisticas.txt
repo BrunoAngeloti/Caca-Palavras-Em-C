@@ -1,0 +1,30 @@
+--------------
+--- PONTOS ---
+--------------
+
+bruno
+Feitos: 4
+Recebidos: 3
+Total: 7
+
+otavio
+Feitos: 4
+Recebidos: 2
+Total: 6
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|2|ave             |005|
+|2|azar            |001|
+|2|rua             |008|
+|2|zebra           |002|
+|1|area            |014|
+|1|casa            |012|
+|1|panda           |010|
+|1|peru            |009|
+|1|reus            |013|
+|0|mapa            |000|

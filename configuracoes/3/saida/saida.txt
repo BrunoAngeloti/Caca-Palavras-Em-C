@@ -1,0 +1,384 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+|            Palavras Restantes           |
+|Bruno           (00)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|torta               |lapis               |
+|tela                |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  -  -  -  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  -  -  -  -  - |
+04| -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (00)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|torta               |lapis               |
+|tela                |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  -  -  -  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  -  -  - |
+04| -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (00)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|torta               |lapis               |
+|tela                |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  -  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  -  -  - |
+04| -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  - |
+06| -  -  -  -  -  -  -  - |
+07| -  -  -  -  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (00)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|torta               |lapis               |
+|tela                |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  -  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  -  -  - |
+04| -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  -  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (00)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|torta               |lapis               |
+|tela                |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  -  -  - |
+04| -  -  -  -  -  -  -  - |
+05| -  -  -  -  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  -  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+|                    |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  -  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  -  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+|                    |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  -  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+|                    |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| -  -  -  A  -  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  -  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Coordenadas já jogadas.Bruno por favor entre com novas coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (00)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+|                    |base                |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  -  A  -  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  -  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  -  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  D  r  -  -  -  - |
+06| -  -  -  O  -  -  -  - |
+07| -  -  -  T  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  t  -  -  -  - |
+05| -  -  D  r  -  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  - |
+05| -  -  D  r  -  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  -  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  -  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  L  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  - |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  L  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  - |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  L  -  -  - |
+06| -  -  -  O  -  -  -  V |
+07| -  -  -  T  -  -  -  L |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  -  -  -  -  - |
+02| -  -  -  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  L  -  -  - |
+06| -  -  W  O  -  -  -  V |
+07| -  -  -  T  -  -  -  L |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (02)|Valeria         (02)|
+|--------------------|--------------------|
+|alface              |oleo                |
+|tela                |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| -  -  -  L  -  E  -  - |
+01| -  -  -  W  -  -  -  - |
+02| -  -  -  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  -  -  -  F |
+05| -  -  D  r  L  -  -  - |
+06| -  -  W  O  -  -  -  V |
+07| -  -  -  T  -  -  -  L |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (03)|Valeria         (02)|
+|--------------------|--------------------|
+|tela                |oleo                |
+|                    |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| A  -  -  L  -  E  -  - |
+01| -  l  -  W  -  -  -  - |
+02| -  -  f  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  c  -  -  F |
+05| -  -  D  r  L  e  -  - |
+06| -  -  W  O  -  -  -  V |
+07| -  -  -  T  -  -  -  L |
+
+Bruno por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (03)|Valeria         (02)|
+|--------------------|--------------------|
+|tela                |oleo                |
+|                    |lapis               |
+
+    00 01 02 03 04 05 06 07
+00| A  F  -  L  -  E  -  - |
+01| -  l  -  W  -  -  -  - |
+02| -  -  f  -  -  -  S  - |
+03| T  -  B  A  s  E  -  - |
+04| -  -  -  T  c  -  -  F |
+05| -  -  D  r  L  e  -  - |
+06| -  -  W  O  -  -  -  V |
+07| -  -  -  T  -  -  -  L |
+
+Valeria por favor entre com as coordenadas para a sua jogada:
+|            Palavras Restantes           |
+|Bruno           (03)|Valeria         (04)|
+|--------------------|--------------------|
+|tela                |oleo                |
+
+    00 01 02 03 04 05 06 07
+00| A  F  -  L  -  E  -  - |
+01| -  l  -  W  -  -  -  - |
+02| -  -  f  -  -  -  S  - |
+03| T  -  B  A  s  E  i  - |
+04| -  -  -  T  c  -  p  F |
+05| -  -  D  r  L  e  a  - |
+06| -  -  W  O  -  -  L  V |
+07| -  -  -  T  -  -  -  L |
+
+Valeria Ganhou!!!

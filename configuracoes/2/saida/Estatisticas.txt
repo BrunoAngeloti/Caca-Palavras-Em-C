@@ -1,0 +1,26 @@
+--------------
+--- PONTOS ---
+--------------
+
+bruno
+Feitos: 4
+Recebidos: 1
+Total: 5
+
+marcio
+Feitos: 0
+Recebidos: 0
+Total: 0
+
+---------------------------
+--- PALAVRAS POR PONTOS ---
+---------------------------
+
+|P|     Palavra    | T |
+|-|----------------|---|
+|2|alga            |003|
+|2|faca            |005|
+|1|alfa            |002|
+|0|dado            |000|
+|0|rato            |000|
+|0|toca            |000|
